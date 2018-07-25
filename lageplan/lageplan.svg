@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.056568543"
-     inkscape:cx="23007.56"
-     inkscape:cy="13865.121"
+     inkscape:cx="23185.292"
+     inkscape:cy="13075.339"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -40,7 +40,8 @@
      inkscape:window-height="2160"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     inkscape:snap-text-baseline="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -49,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -169,44 +170,36 @@
        height="152.1846"
        x="9236.3877"
        y="-3445.8726" />
-    <rect
-       style="fill:#4646ff;fill-opacity:1;stroke:none;stroke-width:2.64999986;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect915"
-       width="900"
-       height="500"
-       x="7349.6909"
-       y="-3729.9062" />
     <path
        style="fill:none;stroke:#ff0000;stroke-width:8.99433136px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 9327.244,-3359.5591 342.9836,-2.2708 h -4.5432"
        id="path917"
        inkscape:connector-curvature="0" />
     <g
-       id="g1136"
-       transform="matrix(2.3007004,0,0,2.3007004,-4705.4408,-891.06859)">
+       id="g1077">
       <rect
-         style="fill:#00fd00;fill-opacity:1;stroke:none;stroke-width:3.91554499;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#00fd00;fill-opacity:1;stroke:none;stroke-width:9.79960251;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect919"
-         width="57.261646"
-         height="93.790634"
-         x="-1218.2244"
-         y="-7975.79"
-         transform="rotate(90.296265,6.7479585e-6,5.9255618e-6)" />
+         width="131.7426"
+         height="255.3463"
+         x="-3658.6587"
+         y="-13656.298"
+         transform="matrix(-0.00611878,0.99998128,-0.99999045,-0.00436964,0,0)" />
       <text
          id="text925"
-         y="-1148.0853"
-         x="7885.5757"
-         style="font-style:normal;font-weight:normal;font-size:156.37554932px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.90938854"
+         y="-3531.4109"
+         x="13436.906"
+         style="font-style:normal;font-weight:normal;font-size:359.77328491px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.27510834px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:3.90938854;stroke-opacity:1"
-           y="-1148.0853"
-           x="7885.5757"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke:none;stroke-width:8.99433136;stroke-opacity:1"
+           y="-3531.4109"
+           x="13436.906"
            id="tspan923"
            sodipodi:role="line">Kaffee</tspan><tspan
            id="tspan927"
-           style="stroke-width:3.90938854"
-           y="-952.61591"
-           x="7885.5757"
+           style="stroke-width:8.99433136"
+           y="-3081.6943"
+           x="13436.906"
            sodipodi:role="line" /></text>
     </g>
     <text
@@ -331,48 +324,26 @@
        x="9310.3936"
        y="-2943.9707" />
     <g
-       id="g893"
-       transform="matrix(33.994325,0,0,33.994325,19609.221,-6936.8135)">
+       id="g939"
+       transform="translate(1005.6016,-509.81662)">
       <rect
-         style="fill:#fffa44;fill-opacity:1;stroke:none;stroke-width:0.17611782;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#fffa44;fill-opacity:1;stroke:none;stroke-width:5.81177092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="rect875"
-         width="9.8273802"
-         height="8.4099703"
-         x="-440.30826"
-         y="108.46849" />
+         width="300"
+         height="300"
+         x="4641.2388"
+         y="-3263.6091" />
       <text
          id="text884"
-         y="111.11433"
-         x="-438.60736"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         y="-3140.8479"
+         x="4675.6738"
+         style="font-style:normal;font-weight:normal;font-size:359.77325439px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
          xml:space="preserve"><tspan
            id="tspan886"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="111.11433"
-           x="-438.60736"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136"
+           y="-3140.8479"
+           x="4675.6738"
            sodipodi:role="line">Paella</tspan></text>
-    </g>
-    <g
-       id="g932"
-       transform="matrix(33.994325,0,0,33.994325,18290.796,-7118.6531)">
-      <rect
-         y="73.198692"
-         x="-381.95917"
-         height="14.432554"
-         width="22.317005"
-         id="rect924"
-         style="fill:#00c31a;fill-opacity:1;stroke:none;stroke-width:0.26499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <text
-         id="text928"
-         y="81.216774"
-         x="-376.34653"
-         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
-           y="81.216774"
-           x="-376.34653"
-           id="tspan926"
-           sodipodi:role="line">Essenszelt</tspan></text>
     </g>
     <path
        style="fill:none;fill-opacity:1;stroke:#ffa500;stroke-width:11.50350189;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -395,5 +366,138 @@
        d="m 4961.9146,-4013.2433 h 1050.0542 v 0"
        id="path974"
        inkscape:connector-curvature="0" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot879"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion881"><rect
+           id="rect883"
+           width="2121.3203"
+           height="2439.5183"
+           x="-3906.7649"
+           y="10352.635" /></flowRegion><flowPara
+         id="flowPara885"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot891"
+       style="fill:#000000;fill-opacity:0;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px;"><flowRegion
+         id="flowRegion893"
+         style="fill:#000000;fill-opacity:0;"><rect
+           id="rect896"
+           width="50"
+           height="50"
+           x="-2337.5"
+           y="9090.5068"
+           style="fill:#000000;fill-opacity:0;" /></flowRegion><flowPara
+         id="flowPara898"></flowPara></flowRoot>    <text
+       id="text909"
+       y="-3103.4302"
+       x="2837.5278"
+       style="font-style:normal;font-weight:normal;font-size:359.77325439px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
+       xml:space="preserve"><tspan
+         id="tspan907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136"
+         y="-3103.4302"
+         x="2837.5278"
+         sodipodi:role="line">Paella</tspan></text>
+    <g
+       id="g982"
+       transform="translate(-788.11101,1232.4466)">
+      <rect
+         y="-4639.7974"
+         x="5418.2534"
+         height="300"
+         width="300"
+         id="rect917"
+         style="fill:#fffa44;fill-opacity:1;stroke:none;stroke-width:5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text921"
+         y="-4527.6426"
+         x="5466.124"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95608521px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
+         xml:space="preserve"><tspan
+           y="-4527.6426"
+           x="5466.124"
+           id="tspan974"
+           sodipodi:role="line">Spül-</tspan><tspan
+           y="-4437.6973"
+           x="5466.124"
+           id="tspan976"
+           sodipodi:role="line">mobil</tspan></text>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot944"
+       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:0.1;letter-spacing:0px;word-spacing:0px"><flowRegion
+         id="flowRegion946"><rect
+           id="rect948"
+           width="1308.1476"
+           height="2068.2874"
+           x="5541.9492"
+           y="5632.6968" /></flowRegion><flowPara
+         id="flowPara950"></flowPara></flowRoot>    <g
+       id="g1017"
+       transform="translate(67.819642,-56.1266)">
+      <rect
+         y="-3729.9062"
+         x="7349.6909"
+         height="400"
+         width="1000"
+         id="rect915"
+         style="fill:#4646ff;fill-opacity:1;stroke:none;stroke-width:2.64999986;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         id="text913"
+         y="-3589.8606"
+         x="7418.8618"
+         style="font-style:normal;font-weight:normal;font-size:359.77325439px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
+         xml:space="preserve"><tspan
+           id="tspan911"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136"
+           y="-3589.8606"
+           x="7418.8618"
+           sodipodi:role="line">Zelt m. Bierzeltgarnitur</tspan><tspan
+           id="tspan915"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136"
+           y="-3140.144"
+           x="7418.8618"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:359.77325439px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136"
+         x="7629.3364"
+         y="-3450.8779"
+         id="text1004"><tspan
+           id="tspan1006"
+           sodipodi:role="line"
+           x="7629.3364"
+           y="-3450.8779"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136">4m x 10m</tspan><tspan
+           sodipodi:role="line"
+           x="7629.3364"
+           y="-3001.1614"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95465088px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:8.99433136"
+           id="tspan1002" /></text>
+    </g>
+    <g
+       id="g1067">
+      <rect
+         y="-4634.0337"
+         x="5504.1855"
+         height="300"
+         width="300"
+         id="rect1019"
+         style="fill:#fffa44;fill-opacity:1;stroke:none;stroke-width:5.81177092;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:71.95608376px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.99433136;"
+         x="5515.2344"
+         y="-4541.6743"
+         id="text1023"><tspan
+           id="tspan1056"
+           sodipodi:role="line">Kalt-</tspan><tspan
+           id="tspan1058"
+           sodipodi:role="line">speisen</tspan><tspan
+           id="tspan1060"
+           sodipodi:role="line">?</tspan></text>
+    </g>
   </g>
 </svg>
